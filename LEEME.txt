@@ -1,0 +1,8 @@
+Invitación de Jhonatan y Rouss. Vista previa local, lista para publicar como HTML estático.
+Fecha: sábado 17 de octubre de 2026. Bolivia, UTC-4.
+Ceremonia 16:00; sesión de fotos después; llegada al salón 18:00; primer baile 18:30; cena 19:30; baile 20:30.
+Confirmación y dudas: +59165707898. Digital Pro: +59179352293.
+Música: archivo suministrado por el usuario; se reproduce al abrir y puede pausarse.
+Los dos enlaces de Maps suministrados se verificaron: Divino Maestro y Golden Angels, Cochabamba.
+Fotos y flores retocadas con la herramienta integrada imagegen; originales conservados en Downloads. Véase EDICION-IMAGENES.txt.
+Mantener todos los archivos juntos. Para GitHub Pages, publicar el contenido de esta carpeta desde la raíz del repositorio.
